@@ -1,6 +1,5 @@
-## Hi, welcome to my profile! :wave: :wave:
+## Hi, welcome to my profile!
 
-![Welcome Gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 ### What you should know about me
 
 • I've been working with development and coding for more 6 years <br>
