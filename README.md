@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, welcome to my profile! :wave: :wave:
 
-<!--
-**leandrotux/leandrotux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome Gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+### What you should know about me?
 
-Here are some ideas to get you started:
+• I've been working with development and coding for more 6 years <br>
+• I'm developer Backend  and mobile  <br>
+• Adaptable and flexible to new environments and new technologies  <br>
+• I love agile culture <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What stack I work with?
+• C#  <br>
+• Java <br>
+• Asp.net Core <br>
+• JavaScript/ES6 <br>
+• Recently playng with Flutter <br>
+
+### Where else can you find me?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrotux)](https://www.linkedin.com/in/leandrotux)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@leandrotuxti)](https://medium.com/@leandrotuxti)
