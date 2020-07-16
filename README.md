@@ -1,19 +1,22 @@
 ## Hi, welcome to my profile! :wave: :wave:
 
 ![Welcome Gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
-### What you should know about me?
+### What you should know about me
 
 • I've been working with development and coding for more 6 years <br>
 • I'm developer Backend  and mobile  <br>
 • Adaptable and flexible to new environments and new technologies  <br>
 • I love agile culture <br>
 
-### What stack I work with?
+### Wich stacks I work with?
 • C#  <br>
 • Java <br>
 • Asp.net Core <br>
 • JavaScript/ES6 <br>
 • Recently playng with Flutter <br>
+• Entity Framework <br>
+• Docker <br>
+• Azure DevOps (CI/CD) <br>
 
 ### Where else can you find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrotux)](https://www.linkedin.com/in/leandrotux)
